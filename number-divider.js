@@ -1,11 +1,3 @@
-/*!
- * jQuery number divider
- * Copyright (C) 2016, Mikhail Tyugaev
- * Licensed under the MIT license
- *
- * @author Mikhail Tyugaev
- * @version 1.0.0 (2016-11-25)
- */
 (function($) {
 
 	var defaults = {
