@@ -1,0 +1,13 @@
+<div class="boby_cf7 formWrapper">
+<p style="font-size: 16px;font-weight: 700;text-align: center;color: #565656;">HOÀN THÀNH FORM ĐỂ ĐĂNG KÝ HỌC</p>
+<div>
+<div class="margin-cf7">Họ và tên * [text* first_name]</div>
+<div class="margin-cf7">Số điện thoại * [tel* phone]</div>
+<div class="margin-cf7">Email [email email akismet:author_email]</div>
+<div class="margin-cf7">Ngày tháng năm sinh * [date* date placeholder "01/01/2000"]</div>
+<div class="margin-cf7"> Tỉnh thành *</div>
+<div class="margin-cf7">[select* city include_blank "Hà Nội" "Hồ Chí Minh" "Đà Nẵng" "An Giang" "Bà Rịa - Vũng Tàu" "Bạc Liêu" "Bắc Giang" "Bắc Kạn" "Bắc Ninh" "Bến Tre" "Bình Dương" "Bình Định" "Bình Phước" "Bình Thuận" "Cà Mau" "Cao Bằng" "Cần Thơ" "Đắk Lắk" "Đắk Nông" "Điện Biên" "Đồng Nai" "Đồng Tháp" "Gia Lai" "Hà Giang" "Hà Nam" "Hà Tĩnh" "Hải Dương" "Hải Phòng" "Hậu Giang" "Hòa Bình" "Hưng Yên" "Kiên Giang" "Kon Tum" "Khánh Hòa" "Lai Châu" "Lạng Sơn" "Lào Cai" "Lâm Đồng" "Long An" "Nam Định" "Ninh Bình" "Ninh Thuận" "Nghệ An" "Phú Thọ" "Phú Yên" "Quảng Bình" "Quảng Nam" "Quảng Ninh" "Quảng Ngãi" "Quảng Trị" "Sóc Trăng" "Sơn La" "Tây Ninh" "Tiền Giang" "Tuyên Quang" "Thái Bình" "Thái Nguyên" "Thanh Hóa" "Thừa Thiên - Huế" "Trà Vinh" "Vĩnh Long" "Vĩnh Phúc" "Yên Bái"]</div>
+[dynamichidden emai_pub "CF7_get_custom_field key='wilcity_email'"][dynamichidden title_pub "CF7_get_post_var key='title'"][dynamichidden affiliate_info_email "affiliate_info_email"][dynamichidden affiliate_info_name "affiliate_info_name"][dynamichidden affiliate_info_username "affiliate_info_username"]
+[submit id:cf7_button "GỬI THÔNG TIN"]
+<p style="text-align: center;">Sau khi đăng ký nhà trường sẽ liên hệ lại theo số điện thoại học sinh đã đăng ký để tư vấn và hướng dẫn</p>
+</div></div>
