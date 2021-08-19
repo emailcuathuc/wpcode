@@ -15,3 +15,6 @@
 
 Các trường sau là các trường ẩn để lấy thông tin từ bài viết. Các trường này được tạo ra từ plugin Contact Form 7 - Dynamic Text Extension
 [dynamichidden emai_pub "CF7_get_custom_field key='wilcity_email'"][dynamichidden title_pub "CF7_get_post_var key='title'"][dynamichidden affiliate_info_email "affiliate_info_email"][dynamichidden affiliate_info_name "affiliate_info_name"][dynamichidden affiliate_info_username "affiliate_info_username"]
+
+Link test CF7 ở trên: https://linhna.vn/education/truong-cao-dang-ha-noi/
+Link test CF 7 chỉ có những trường mặc định của CF7: https://linhna.vn/blog/test-cho-ladixx/
